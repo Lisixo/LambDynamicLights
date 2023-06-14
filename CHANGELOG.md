@@ -123,7 +123,6 @@
 
  - Updated to Minecraft 1.19.
  - Updated [SpruceUI].
- - Updated [pridelib].
 
 ### 2.1.2
 
@@ -142,13 +141,11 @@
  - Updated Simplified Chinese translations ([#133](https://github.com/LambdAurora/LambDynamicLights/pull/133)).
  - Updated to Minecraft 1.19.4 ([#144](https://github.com/LambdAurora/LambDynamicLights/pull/144)).
  - Updated [SpruceUI].
- - Updated [pridelib].
 
 ## 2.3.1
 - Updated to Minecraft 1.20 ([#156](https://github.com/LambdAurora/LambDynamicLights/pull/156))
 - Updated [SpruceUI].
 
 [SpruceUI]: https://github.com/LambdAurora/SpruceUI "SpruceUI page"
-[pridelib]: https://github.com/Queerbric/pridelib "Pridelib page"
 [Sodium]: https://modrinth.com/mod/sodium "Sodium Modrinth page"
 [Canvas Renderer]: https://www.curseforge.com/minecraft/mc-mods/canvas-renderer "Canvas Renderer CurseForge page"
